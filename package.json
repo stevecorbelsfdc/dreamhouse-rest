@@ -1,0 +1,18 @@
+{
+  "name": "dreamhouse-rest-services",
+  "description": "Simple REST services for DreamHouse sample app",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dreamhouse/dreamhouse-rest-services"
+  },
+  "scripts": {
+    "start": "node server"
+  },
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "compression": "^1.6.2",
+    "cors": "^2.8.1",
+    "express": "^4.14.0"
+  }
+}
