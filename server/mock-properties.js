@@ -4,7 +4,7 @@ let properties = [
     {
         id: 1,
         address: "18 Henry st",
-        city: "Cambridge",
+        city: "Paris",
         state: "MA",
         zip: "01742",
         price: 975000,
